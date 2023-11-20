@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.2-dev+20230530.b9084615f6","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"db_f1"},
+{"type":"table","name":"drivers","database":"db_f1","data":
+[
+{"id":"1","number":"1","name":"Max Verstappen","country":"Netherlands","birthdate":"1997-09-30","birthplace":"Hasselt","team":"Red Bull Racing","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/verstappen.jpg.img.1024.medium.jpg\/1677069646195.jpg "},
+{"id":"2","number":"11","name":"Sergio Perez","country":"Mexico","birthdate":"1990-01-26","birthplace":"Guadalajara","team":"Red Bull Racing","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/perez.jpg.img.1024.medium.jpg\/1677069773437.jpg "},
+{"id":"3","number":"44","name":"Lewis Hamilton","country":"United Kingdom","birthdate":"1985-01-07","birthplace":"Stevenage","team":"Mercedes-AMG Petronas","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/hamilton.jpg.img.1024.medium.jpg\/1677069594164.jpg "},
+{"id":"4","number":"55","name":"Carlos Sainz","country":"Spain","birthdate":"1994-09-01","birthplace":"Madrid","team":"Scuderia Ferrari","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/sainz.jpg.img.1024.medium.jpg\/1677069189406.jpg "},
+{"id":"5","number":"14","name":"Fernando Alonso","country":"Spain","birthdate":"1981-07-29","birthplace":"Oviedo","team":"Aston Martin","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/alonso.jpg.img.1024.medium.jpg\/1677244577162.jpg "},
+{"id":"6","number":"4","name":"Lando Norris","country":"United Kingdom","birthdate":"1999-11-13","birthplace":"Bristol","team":"McLaren Racing","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/norris.jpg.img.1024.medium.jpg\/1677069505471.jpg "},
+{"id":"7","number":"16","name":"Charles Leclerc","country":"Monaco","birthdate":"1997-10-16","birthplace":"Monte Carlo","team":"Scuderia Ferrari","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/leclerc.jpg.img.1024.medium.jpg\/1677069223130.jpg "},
+{"id":"8","number":"63","name":"George Russell","country":"United Kingdom","birthdate":"1998-02-15","birthplace":"Kings Lynn","team":"Mercedes-AMG Petronas","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/russell.jpg.img.1024.medium.jpg\/1677069334466.jpg "},
+{"id":"9","number":"81","name":"Oscar Piastri","country":"Australia","birthdate":"2001-04-06","birthplace":"Melbourne","team":"McLaren Racing","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/piastri.jpg.img.1024.medium.jpg\/1676983075734.jpg "},
+{"id":"10","number":"18","name":"Lance Stroll","country":"Canada","birthdate":"1998-10-29","birthplace":"Montreal","team":"Aston Martin","photo_url":"https:\/\/media.formula1.com\/content\/dam\/fom-website\/drivers\/2023Drivers\/stroll.jpg.img.1024.medium.jpg\/1677069453013.jpg "}
+]
+}
+]
